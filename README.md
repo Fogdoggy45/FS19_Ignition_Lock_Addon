@@ -5,7 +5,7 @@ Got the FS25 collectors edition ignition lock switch? No problem!
 Want to use keybinds for your keyboard? No problem!
 By default the game only allows to bind one key to toogle the engine.
 
-Please report any errors at https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon
+Please report any errors at https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon/issues
 
 Disclaimer:
 This is a fork of Ignition Lock Support for FS22 originally by Dr4K4n and has been ported to FS19 by me!
