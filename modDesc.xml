@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="46">
+    <author>Fogdoggy45</author>
+    <version>1.0.0.0</version>
+    <multiplayer supported="true" />
+
+    <title>
+        <en>Ignition Lock Addon for FS19</en>
+        <de>Zündschloss-Addon für LS19</de>
+		<jp>FS19用イグニッションロックアドオン</jp>
+    </title>
+
+    <description>
+        <en>
+<![CDATA[
+Tired of only being able to use one keybind to start/stop your engine with your controller? Fear no more
+because this mod brings the ignition lock support into Farming Simulator 19!
+
+Got the FS25 collectors edition ignition lock switch? No problem!
+Want to use keybinds for your keyboard? No problem!
+By default the game only allows to bind one key to toogle the engine.
+
+Please report any errors at [placeholder link]
+
+Disclaimer:
+This is a fork of Ignition Lock Support for FS22 originally by Dr4K4n and has been ported to FS19 by me!
+The only AI bot I used to rewrite the script is Claude AI.
+Go ahead and call me out, but at the end of the day, it's just a mod!
+
+IF YOU PURCHASED THIS MOD, YOU WERE SCAMMED AND SHOULD DEMAND A REFUND!
+This mod is only found on GitHub!
+The original mod link is [placeholder link]
+]]>
+        </en>
+        <de>
+<![CDATA[
+Hast du es satt, mit deinem Controller nur eine einzige Taste nutzen zu können, um den Motor zu starten oder zu stoppen? Keine Sorge mehr –
+denn dieser Mod bringt die Unterstützung für Zündschlösser in den Farming Simulator 19!
+
+Besitzt du den Zündschalter aus der Collectors Edition des LS25? Kein Problem!
+Möchtest du Tastenbelegungen auf deiner Tastatur nutzen? Ebenfalls kein Problem!
+Standardmäßig erlaubt das Spiel nämlich nur die Belegung einer einzelnen Taste, um den Motor umzuschalten.
+
+Bitte melde jegliche Fehler unter [Platzhalter-Link].
+
+Haftungsausschluss:
+Dies ist ein Fork des Mods „Ignition Lock Support“ für den FS22 (ursprünglich von Dr4K4n), der von mir auf den FS19 portiert wurde!
+Der einzige KI-Bot, den ich zum Umschreiben des Skripts verwendet habe, ist Claude AI.
+Kritisier mich ruhig dafür – aber letztendlich ist es doch nur ein Mod!
+
+FALLS DU DIESEN MOD GEKAUFT HABEN SOLLTEST, BIST DU BETROGEN WORDEN UND SOLLTEST EINE RÜCKERSTATTUNG FORDERN!
+Dieser Mod ist ausschließlich auf GitHub zu finden!
+Der Link zum Original-Mod lautet: [Platzhalter-Link]
+]]>
+        </de>
+		<jp>
+<![CDATA[
+コントローラーでエンジンの始動/停止に使えるキーが1つしかないことにうんざりしていませんか？もう心配はいりません！
+このMODを使えば、Farming Simulator 19にイグニッションロック機能が追加されます！
+
+FS25コレクターズエディションのイグニッションロックスイッチをお持ちですか？問題ありません！
+
+キーボードのキーバインドを使いたいですか？問題ありません！
+
+デフォルトでは、エンジンのオン/オフを切り替えるキーは1つしか割り当てられません。
+
+エラーが発生した場合は、[プレースホルダーリンク]までご報告ください。
+
+免責事項：
+これは、Dr4K4n氏が作成したFS22用イグニッションロックサポートMODのフォークであり、私がFS19に移植したものです。
+
+スクリプトの書き換えに使用したAIボットはClaude AIのみです。
+
+批判はご遠慮なくどうぞ。でも、結局のところ、これはただのMODです！
+
+このMODを購入された方は詐欺被害に遭われた可能性がありますので、返金を要求してください！
+
+このMODはGitHubでのみ入手可能です！
+
+元のMODへのリンクは[プレースホルダーリンク]です。
+]]>		
+		</jp>
+    </description>
+
+    <iconFilename>icon_ignitionlockaddon.dds</iconFilename>
+
+    <actions>
+        <action name="ilsMotorStart" category="VEHICLE" axisType="HALF" />
+        <action name="ilsMotorStop" category="VEHICLE" axisType="HALF" />
+    </actions>
+
+    <extraSourceFiles>
+        <sourceFile filename="ignitionlockaddon.lua" />
+    </extraSourceFiles>
+
+    <l10n>
+        <text name="input_ilsMotorStart">
+            <en>Start Engine</en>
+            <de>Motor starten</de>
+			<jp>エンジン始動</jp>
+        </text>
+        <text name="input_ilsMotorStop">
+            <en>Stop Engine</en>
+            <de>Motor abstellen</de>
+			<jp>エンジン停止</jp>
+        </text>
+    </l10n>
+</modDesc>
