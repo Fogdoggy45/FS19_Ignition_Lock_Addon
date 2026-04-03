@@ -5,7 +5,7 @@ because this mod brings the ignition lock support into Farming Simulator 19!
 
 Got the FS25 collectors edition ignition lock switch? No problem!
 Want to use keybinds for your keyboard? No problem!
-By default the game only allows to bind one key to toogle the engine.
+By default the game only allows to bind one key to toggle the engine.
 
 Please report any errors at https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon/issues
 
