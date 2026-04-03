@@ -18,7 +18,7 @@ because this mod brings the ignition lock support into Farming Simulator 19!
 
 Got the FS25 collectors edition ignition lock switch? No problem!
 Want to use keybinds for your keyboard? No problem!
-By default the game only allows to bind one key to toogle the engine.
+By default the game only allows to bind one key to toggle the engine.
 
 Please report any errors at https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon/issues
 
@@ -39,27 +39,25 @@ Changelog 1.0.0.1
         </en>
         <de>
 <![CDATA[
-Hast du es satt, mit deinem Controller nur eine einzige Taste nutzen zu können, um den Motor zu starten oder zu stoppen? Keine Sorge mehr –
-denn dieser Mod bringt die Unterstützung für Zündschlösser in den Farming Simulator 19!
+Genervt davon, dass du mit deinem Controller nur eine Taste zum Starten/Stoppen deines Motors verwenden kannst? Keine Sorge mehr!
+Denn diese Mod bringt die Zündsperre in den Landwirtschafts-Simulator 19!
 
-Besitzt du den Zündschalter aus der Collectors Edition des LS25? Kein Problem!
-Möchtest du Tastenbelegungen auf deiner Tastatur nutzen? Ebenfalls kein Problem!
-Standardmäßig erlaubt das Spiel nämlich nur die Belegung einer einzelnen Taste, um den Motor umzuschalten.
+Hast du den Zündsperrenschalter der LS25 Collector's Edition? Kein Problem!
+Du möchtest Tastenbelegungen für deine Tastatur verwenden? Kein Problem!
+Standardmäßig erlaubt das Spiel nur die Belegung einer Taste zum Ein- und Ausschalten des Motors.
 
-Bitte melde jegliche Fehler unter https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon/issues
+Bitte melde alle Fehler unter https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon/issues
 
 Haftungsausschluss:
-Dies ist ein Fork des Mods „Ignition Lock Support“ für den FS22 (ursprünglich von Dr4K4n), der von mir auf den FS19 portiert wurde!
-Der einzige KI-Bot, den ich zum Umschreiben des Skripts verwendet habe, ist Claude AI.
-Kritisier mich ruhig dafür – aber letztendlich ist es doch nur ein Mod!
+Dies ist eine Abspaltung der Zündsperren-Unterstützung für FS22, ursprünglich von Dr4K4n, und wurde von mir für FS19 portiert! Der einzige KI-Bot, den ich zum Umschreiben des Skripts verwendet habe, ist Claude AI. Kritik ist willkommen, aber letztendlich ist es nur eine Mod!
 
-FALLS DU DIESEN MOD GEKAUFT HABEN SOLLTEST, BIST DU BETROGEN WORDEN UND SOLLTEST EINE RÜCKERSTATTUNG FORDERN!
-Dieser Mod ist ausschließlich auf GitHub zu finden!
-Der Link zum Original-Mod lautet: https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon
+Falls Sie diese Mod gekauft haben, wurden Sie betrogen und sollten eine Rückerstattung verlangen!
+Diese Mod ist nur auf GitHub verfügbar!
+Der Link zur Original-Mod lautet: https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon
 
 Änderungsprotokoll 1.0.0.1
 
-- Ich habe die japanische Übersetzung entfernt, da mir aufgefallen ist, dass Farming Simulator 19 sie nicht in der moddesc.xml jeder FS19-Mod unterstützt. Entschuldigung!
+- Japanische Übersetzung entfernt, da Farming Simulator 19 diese nicht in der moddesc.xml-Datei jeder FS19-Mod unterstützt. Entschuldigung!
 - Französische Übersetzung hinzugefügt
 ]]>
         </de>
@@ -67,22 +65,27 @@ Der Link zum Original-Mod lautet: https://github.com/Fogdoggy45/FS19_Ignition_Lo
 <![CDATA[
 Fatigué de ne pouvoir utiliser qu'une seule touche pour démarrer/arrêter votre moteur avec votre manette ? N'ayez crainte !
 Ce mod ajoute la gestion du verrouillage d'allumage à Farming Simulator 19 !
-Vous possédez le verrouillage d'allumage de l'édition collector de FS25 ? Aucun problème !
-Vous souhaitez utiliser des raccourcis clavier ? Aucun problème !
-Par défaut, le jeu ne permet d'assigner qu'une seule touche pour activer/désactiver le moteur.
-Veuillez signaler tout bug à https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon/issues
+
+Vous possédez le verrouillage d'allumage de l'édition collector de FS25 ? Aucun souci !
+Vous préférez utiliser des raccourcis clavier ? Aucun souci !
+Par défaut, le jeu ne permet d'assigner qu'une seule touche pour démarrer/arrêter le moteur.
+
+Veuillez signaler tout bug sur https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon/issues
 
 Avertissement :
-Il s'agit d'une version modifiée du mod « Ignition Lock Support for FS22 » créé à l'origine par Dr4K4n et porté sur FS19 par mes soins !
+
+Il s'agit d'une version dérivée du module de gestion du verrouillage d'allumage pour FS22, créé à l'origine par Dr4K4n et adapté à FS19 par mes soins !
 Le seul bot IA utilisé pour réécrire le script est Claude AI.
-N'hésitez pas à me critiquer, mais après tout, ce n'est qu'un mod !
+N'hésitez pas à me le faire savoir, mais après tout, ce n'est qu'un mod !
 
 SI VOUS AVEZ ACHETÉ CE MOD, VOUS AVEZ ÉTÉ ARNAQUÉ ET DEVEZ EXIGER UN REMBOURSEMENT !
-Ce mod est uniquement disponible sur GitHub ! Le lien du mod original est https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon
+
+Ce mod est uniquement disponible sur GitHub !
+Le lien du mod original est : https://github.com/Fogdoggy45/FS19_Ignition_Lock_Addon
 
 Journal des modifications 1.0.0.1
 
-- J'ai supprimé la traduction japonaise car je me suis rendu compte que Farming Simulator 19 ne la prend pas en charge dans le fichier moddesc.xml de chaque mod FS19, désolé !
+- Suppression de la traduction japonaise : Farming Simulator 19 ne la prend pas en charge dans le fichier moddesc.xml de tous les mods FS19. Toutes nos excuses !
 - Ajout de la traduction française
 ]]>
 		</fr>
